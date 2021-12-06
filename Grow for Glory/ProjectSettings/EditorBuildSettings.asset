@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Turtorial_Scene.unity
+    guid: bd19a0acfe4dbd743accf0b78c6e8b7e
+  - enabled: 1
     path: Assets/Scenes/Scene_0.unity
     guid: 3e0f0bef953822c4380149280ef2c9a3
   - enabled: 1
